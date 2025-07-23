@@ -44,6 +44,10 @@
 <!-- Tailwind CSS (Corrected style) -->
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 
+<!-- Python -->
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+
 
 
   
