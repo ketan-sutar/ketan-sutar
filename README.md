@@ -1,6 +1,6 @@
 ##  👋 Hi there,  I'm Ketan Sutar 
 
-<h3>When I code, I rely on</h3>s
+<h3>When I code, I rely on</h3>
 <p>
  <!-- HTML5 -->
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -52,6 +52,25 @@
 
   
 </p>
+<div class="max-w-4xl w-full text-center">
+    <h3 class="text-2xl font-bold text-pink-500 mb-6">My GitHub Contributions Summary</h3>
+
+   
+    <a href="https://git.io/streak-stats" target="_blank">
+      <img 
+        class="zoom mx-auto mb-6 rounded shadow-lg" 
+        src="https://github-readme-streak-stats.herokuapp.com?user=ketan-sutar&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true" 
+        alt="GitHub Streak Stats" 
+      />
+    </a>
+
+  
+    <img 
+      class="zoom mx-auto rounded shadow-lg" 
+      src="https://github-readme-stats.vercel.app/api?username=ketan-sutar&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" 
+      alt="GitHub Stats" 
+    />
+  </div>
 
 <!--
 **ketan-sutar/ketan-sutar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
